@@ -1,7 +1,7 @@
 
 Hello! 👋👋
 
-I am a Computer Engineer and a dedicated, ambitious Software Engineer continuously developing my engineering skills and competencies 🚀.
+I am a Computer Engineer and a dedicated, ambitious Computer Engineer continuously developing my engineering skills and competencies 🚀.
 I am known for my strong work ethic and excellent communication skills. I have the ability to deliver superior results under extreme pressure and adapt to constantly changing conditions.
 
 I effectively interact with cross-functional teams using exceptional interpersonal skills. I am emotionally intelligent, success-oriented, and value teamwork.
