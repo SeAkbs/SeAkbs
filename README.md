@@ -10,7 +10,7 @@ My flexible and adaptable nature allows me to work efficiently in any situation.
 Additionally, I am genuinely interested in artificial intelligence and hope to enhance my knowledge and skills in this field.
 I have completed my master's degree in Computer Engineering, with a thesis project focused on Natural Language Processing (NLP).
 
-### Hakkımda
+### About Me
 
 ```javascript
 
