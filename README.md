@@ -15,7 +15,6 @@ I have completed my master's degree in Computer Engineering, with a thesis proje
 ```javascript
 
 const seherAkbas = {
-  pronouns: "she" | "her",
   code: ["JavaScript", "C#","C++","HTML", "CSS", "Java", "Python", "MSSQL", "PostgreSQL"],
   tools: ["Node.js", "React.js"],,
 }
